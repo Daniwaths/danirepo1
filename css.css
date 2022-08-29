@@ -36,10 +36,9 @@ header{
 .social a i:hover {
     background: rgba(0, 0, 0, 0.9098039216);
     color: rgb(255, 255, 255);
-    
-  }
+    }
 
-i{
+ i{
     color: rgb(251, 0, 255);
     cursor: pointer;
     margin-left: 13px;
@@ -67,7 +66,7 @@ header ul li a {
     color:#fff;
     font-weight: 600;
     font-size: 17px;
- text-transform: uppercase;
+    text-transform: uppercase;
     padding: 10px 0px;
     font-family:'Times New Roman', Times, serif;
 }
@@ -75,7 +74,6 @@ header ul li a {
 header .menu{
     font-size: 2.5em;
     display: none;
-
 }
 
 @media(max-width:1000px){
@@ -105,7 +103,7 @@ header .menu{
         background-color:#0a0a0a;
         opacity: 80%;
     }
-  }                       /* FIN Navbar */
+  }             /* FIN Navbar */
 
 
        /*FOOTER*/ 
@@ -223,9 +221,8 @@ form button {
     text-align: center;
   }     /*FIN ABOUT */                      
 
- 
- /*MEDIA*/
-.iframe-container{
+   /*MEDIA*/
+.iframe-container {
     margin-top: 20px;  
     position: relative;
     width: 100%;
@@ -329,9 +326,8 @@ form button {
 padding-top: 20px; 
 background-color: #000000;
 padding-left: 30px;
-padding-right: 35px; }
-
-
+padding-right: 35px;
+ }
 
 /* FORMULARIO */
 * {
